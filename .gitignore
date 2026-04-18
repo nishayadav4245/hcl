@@ -1,0 +1,44 @@
+# Compiled class files
+target/
+
+# Maven wrapper jar
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.settings/
+.factorypath
+.vscode/
+*.code-workspace
+nbproject/
+nb-configuration.xml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log files
+*.log
+logs/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+application-secret.properties
+
+# Temporary files
+*.swp
+*.swo
+*~
